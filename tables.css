@@ -1,0 +1,17 @@
+.container {
+    border: 24px solid lightblue;
+    padding: 24px 24px 24px 24px;
+}
+
+
+.box {
+    border: 2px solid lightblue;
+    width: 100%;
+    height: 24px;
+}
+
+.top {
+    display: flex;
+    flex-wrap: warp;
+    justify-content: space-between;
+}
